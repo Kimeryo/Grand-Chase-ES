@@ -1,27 +1,26 @@
 **English:**
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Therefore, it is not necessary to upload the entire set of files. Instead, it is better to inject the files into existing data and replace the specific ones that need text changes, as mentioned earlier.
+Some textures don't have text, so there's no need to upload the complete files. 
+It's better to inject the files into existing data and replace them, as they are only meant to change the text.
 
-The same process should be followed for the voice files in the ReSet folder.
+This also applies to voice files in the ReSet folder.
 
-I'm doing this because I know there are private servers that might be interested in these files, and since they have their own encryption, it's more efficient to provide the files in their raw format.
+I'm sharing these files in their raw format because private servers might be interested, and since they use their own encryption, this approach is more practical.
 
 **Portugues:**
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Os arquivos estão incompletos, pois algumas texturas não possuem texto.
+Algumas texturas não têm texto, então não é necessário carregar os arquivos completos. 
+É melhor injetar os arquivos nos dados existentes e substituí-los, já que são apenas para mudar o texto.
 
-Portanto, não é necessário carregar todos os arquivos. Em vez disso, é melhor injetar os arquivos nos dados existentes e substituir apenas os que precisam de alterações de texto, como mencionado anteriormente.
+O mesmo se aplica aos arquivos de voz na pasta ReSet.
 
-O mesmo processo deve ser seguido para os arquivos de voz na pasta ReSet.
-
-Faço isso porque sei que existem servidores privados que podem estar interessados nesses arquivos, e como eles têm sua própria criptografia, é mais eficiente fornecer os arquivos em seu formato bruto.
+Estou compartilhando esses arquivos no formato bruto porque servidores privados podem se interessar, e como eles usam sua própria criptografia, essa abordagem é mais prática.
 
 **Español:**
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Los archivos están incompletos, ya que algunas texturas no tienen texto.
+Algunas texturas no tienen texto, por lo que no es necesario subir los archivos completos. 
+Es mejor inyectar los archivos en los datos existentes y reemplazarlos, ya que solo están destinados a cambiar el texto.
 
-Por lo tanto, no es necesario cargar todos los archivos. En su lugar, es mejor inyectar los archivos en los datos existentes y reemplazar solo los que necesitan cambios de texto, como se mencionó antes.
+Lo mismo se aplica a los archivos de voz en la carpeta ReSet.
 
-El mismo proceso debe aplicarse a los archivos de voz dentro de la carpeta ReSet.
-
-Hago esto porque sé que existen servidores privados que podrían estar interesados en estos archivos, y dado que tienen su propia encriptación, es más eficiente dejar los archivos disponibles en su formato bruto.
+Estoy compartiendo estos archivos en su formato bruto porque podrían interesar a servidores privados, y dado que usan su propia encriptación, este enfoque es más práctico.
